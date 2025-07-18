@@ -30,7 +30,7 @@ cd <PROJECT_NAME>
 ### 2. Install Dependencies
 
 ```bash
-npm install
+npm i
 ```
 
 ### 3. Start the Development Server
@@ -39,21 +39,7 @@ npm install
 npm run dev
 ```
 
-The application will be available at `http://localhost:5173`.
-
----
-
-## 🛠 Development
-
-All source code resides in the `src/` directory.
-
-- Use `npm run dev` for hot-reloading and instant feedback during development.
-- Linting and formatting can be enforced via:
-
-```bash
-npm run lint
-npm run format
-```
+The application will be available at `http://localhost:8080`.
 
 ---
 
@@ -64,8 +50,6 @@ To create a production-optimized version of the app:
 ```bash
 npm run build
 ```
-
-The output will be generated in the `dist/` directory.
 
 ---
 
@@ -79,19 +63,6 @@ This application can be deployed on any modern frontend hosting platform such as
 - **Cloudflare Pages**
 
 Refer to the respective platform documentation for deployment instructions.
-
----
-
-## 🔐 Environment Variables
-
-Create a `.env` file in the root of the project and define your environment-specific variables:
-
-```ini
-VITE_API_BASE_URL=https://your-api-url.com
-VITE_PUBLIC_KEY=your-public-key
-```
-
-> **Note:** Only variables prefixed with `VITE_` will be exposed to the client.
 
 ---
 
@@ -118,12 +89,6 @@ This is a private project. Only authorized contributors may commit changes.
 - Follow existing code structure and style
 - Use clear commit messages
 - Submit feature branches via pull requests
-
----
-
-## 📄 License
-
-This repository is proprietary and not licensed for public use. All rights reserved.
 
 ---
 
