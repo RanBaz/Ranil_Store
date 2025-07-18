@@ -43,16 +43,6 @@ The application will be available at `http://localhost:8080`.
 
 ---
 
-## 📦 Production Build
-
-To create a production-optimized version of the app:
-
-```bash
-npm run build
-```
-
----
-
 ## 🚀 Deployment
 
 This application can be deployed on any modern frontend hosting platform such as:
