@@ -2,7 +2,7 @@
 
 ## 🧾 Overview
 
-This application serves as an internal tool to streamline operations and enhance productivity. It offers a responsive UI, optimized performance, and a maintainable codebase suited for ongoing improvements.
+This is a simple and responsive web app that lets you browse products from FakeStoreAPI. It features infinite scrolling for smooth loading, individual product detail pages, a working cart, and the ability to filter products by category.
 
 ---
 
