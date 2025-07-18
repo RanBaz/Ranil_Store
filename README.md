@@ -18,7 +18,7 @@ This application serves as an internal tool to streamline operations and enhance
 
 ## ⚙️ Getting Started
 
-Ensure you have **Node.js (v16+)** and **npm** installed on your machine.
+Ensure you have **Node.js** and **npm** installed on your machine.
 
 ### 1. Clone the Repository
 
